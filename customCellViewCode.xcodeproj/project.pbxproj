@@ -16,6 +16,7 @@
 		B22B949E2814715900607EBD /* customCellViewCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22B949D2814715900607EBD /* customCellViewCodeTests.swift */; };
 		B22B94A82814715900607EBD /* customCellViewCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22B94A72814715900607EBD /* customCellViewCodeUITests.swift */; };
 		B22B94AA2814715900607EBD /* customCellViewCodeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22B94A92814715900607EBD /* customCellViewCodeUITestsLaunchTests.swift */; };
+		B22B94B728147AC400607EBD /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22B94B628147AC400607EBD /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B22B94A32814715900607EBD /* customCellViewCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customCellViewCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B22B94A72814715900607EBD /* customCellViewCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customCellViewCodeUITests.swift; sourceTree = "<group>"; };
 		B22B94A92814715900607EBD /* customCellViewCodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customCellViewCodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B22B94B628147AC400607EBD /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B22B94862814715600607EBD /* AppDelegate.swift */,
 				B22B94882814715600607EBD /* SceneDelegate.swift */,
 				B22B948A2814715600607EBD /* ViewController.swift */,
+				B22B94B628147AC400607EBD /* CustomTableViewCell.swift */,
 				B22B948C2814715600607EBD /* Main.storyboard */,
 				B22B948F2814715800607EBD /* Assets.xcassets */,
 				B22B94912814715800607EBD /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				B22B948B2814715600607EBD /* ViewController.swift in Sources */,
 				B22B94872814715600607EBD /* AppDelegate.swift in Sources */,
+				B22B94B728147AC400607EBD /* CustomTableViewCell.swift in Sources */,
 				B22B94892814715600607EBD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
